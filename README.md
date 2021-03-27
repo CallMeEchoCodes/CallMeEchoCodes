@@ -1,6 +1,6 @@
-<img src=CallMeEcho.png />
+Heyo! My name is Roman known online as CallMeEcho. Im a programer interested in Linux, I love web design.
 
-Heyo! My name is Roman known online as CallMeEcho. Im a programer interested in the linux shell, wm ricing and well coding!
+Roman, Professional Dumbass
 
 ### OS : Arch Linux
 ### Main Lang : Shell
