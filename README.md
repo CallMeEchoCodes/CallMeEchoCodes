@@ -6,6 +6,7 @@
 - Discord: CallMeEcho#6969
 
 - 😄 Pronouns: he/him
-- i blatantly stole this from @AvaaaUwU
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=CallMeEcho&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+- ⚡ Fun fact: i stole this readme from @AvaaaUwU lol
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=CallMeEchoCodes&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
