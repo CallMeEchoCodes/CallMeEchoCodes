@@ -59,7 +59,7 @@
 
 
 ## Connect with me
-note: i use discord the most
+
 <div align="center">
 <a href="https://github.com/CallMeEchoCodes" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -73,6 +73,7 @@ note: i use discord the most
 <a href="https://discordapp.com/users/379035005231300608/" target="_blank">
 <img src=https://img.shields.io/badge/discord-5865F2.svg?&style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;" />
 </a> 
+note: i use discord the most
 </div>  
   
 
