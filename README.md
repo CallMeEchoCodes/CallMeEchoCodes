@@ -72,7 +72,7 @@
 </a>  
 <a href="https://discordapp.com/users/379035005231300608/" target="_blank">
 <img src=https://img.shields.io/badge/discord-5865F2.svg?&style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;" />
-</a> 
+</a> </br>
 note: i use discord the most
 </div>  
   
