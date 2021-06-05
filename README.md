@@ -1,5 +1,5 @@
 <div align="center">
-<img src="helloworld.gif" align="center" style="width: 100%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
 
@@ -69,6 +69,9 @@
 <a href="https://stackoverflow.com/users/16134485" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  
+<a href="https://discordapp.com/users/379035005231300608/" target="_blank">
+<img src=https://img.shields.io/badge/discord-5865F2.svg?&style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;" />
+</a> 
 </div>  
   
 
