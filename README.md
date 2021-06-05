@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">heyo its echo</div>  
+### <div align="center">Hey! I'm Echo.</div>  
   
 
 - 🔭 I’m currently working on [KokoBot](https://github.com/CallMeEchoCodes/KokoBot)  
