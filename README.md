@@ -6,10 +6,10 @@
 ### <div align="center">I'm Echo, a programmer who is also ok at games</div>  
   
 
-- 🔭 I’m currently working on a private project  
+- 🔭 I’m currently working on a [GDBot](https://github.com/CallMeEchoCodes/GDBot)
   
 
-- 🌱 I’m currently learning MySQL and ReactJS  
+- 🌱 I’m currently learning discord bot programming
   
 
 - ❓ Ask me about NodeJS! I'm always happy to help.  
