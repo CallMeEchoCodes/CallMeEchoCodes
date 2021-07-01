@@ -6,7 +6,7 @@
 ### <div align="center">I'm Echo, a programmer who is also ok at games</div>  
   
 
-- 🔭 I’m currently working on a [GDBot](https://github.com/CallMeEchoCodes/GDBot)
+- 🔭 I’m currently working on [GDBot](https://github.com/CallMeEchoCodes/GDBot)
   
 
 - 🌱 I’m currently learning discord bot programming
