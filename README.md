@@ -14,7 +14,7 @@
 - ❓ Ask me about NodeJS  
   
 
-- ⚡ Fun fact: I think Python is bad  
+- ⚡ Fun fact: I think Python is bad (fight me)
 
 
 </td><td valign="top" width="50%">
