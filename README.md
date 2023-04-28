@@ -35,8 +35,8 @@ let Echo = {
     <a style="text-decoration: none;" href="https://discordapp.com/users/379035005231300608">
         <img style="border-radius:10px" src="https://img.shields.io/static/v1?label=Discord&message=CallMeEcho%230253&logo=discord&style=for-the-badge&logoColor=white&labelColor=181825&color=b4befe" />
     </a>
-    <a style="text-decoration: none;" href="https://twitter.com/ImCallMeEcho">
-        <img style="border-radius:10px" src="https://img.shields.io/static/v1?label=Twitter&message=@ImCallMeEcho&logo=twitter&style=for-the-badge&logoColor=white&labelColor=181825&color=74c7ec">
+    <a style="text-decoration: none;" href="https://mas.to/@CallMeEcho">
+        <img style="border-radius:10px" src="https://img.shields.io/static/v1?label=Mastodon&message=@ImCallMeEcho&logo=mastodon&style=for-the-badge&logoColor=white&labelColor=181825&color=cba6f7">
     </a>
     <a style="text-decoration: none;" href="https://youtube.com/@ImCallMeEcho">
         <img style="border-radius:10px" src="https://img.shields.io/static/v1?label=Youtube&message=@ImCallMeEcho&logo=youtube&style=for-the-badge&logoColor=white&labelColor=181825&color=f38ba8">
