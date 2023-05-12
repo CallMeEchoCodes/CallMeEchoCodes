@@ -21,7 +21,7 @@ let Echo = {
     timezone: "AEST (UTC+10)",
 
     // Coding
-    projects: [ "Decluttered (Coming soon (maybe))", "fetcho v2 (Coming soon)", "dossier", "callmeecho.dev" ],
+    projects: [ "Decluttered (Coming soon (maybe))", "fetcho", "dossier", "callmeecho.dev" ],
     favoriteLanguages: [ "Typescript", "Javascript", "Bash", "C++" ],
 
     // GPG
