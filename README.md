@@ -54,7 +54,7 @@ let Echo = {
     </a>
     <h2 style="border-bottom: none;">Frameworks i work with</h2>
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=react,vue,astro,tailwind,unity,bots&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=react,vue,astro,tailwind,bots&theme=dark" />
     </a>
     <h2 style="border-bottom: none;">Tools i use</h2>
     <a href="https://skillicons.dev">
