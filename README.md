@@ -50,7 +50,7 @@ let Echo = {
 <div align="center">
     <h2 style="border-bottom: none;">Languages i know</h2>
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=typescript,javascript,nodejs,html,css,cpp,bash,cs,java,lua,nim,powershell&theme=dark&perline=6" />
+        <img src="https://skillicons.dev/icons?i=cs,typescript,javascript,nodejs,html,css,cpp,bash,java,lua,nim,powershell&theme=dark&perline=6" />
     </a>
     <h2 style="border-bottom: none;">Frameworks i work with</h2>
     <a href="https://skillicons.dev">
