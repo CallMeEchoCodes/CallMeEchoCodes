@@ -22,7 +22,7 @@ let Echo = {
 
     // Coding
     projects: [ "Decluttered (Coming soon (maybe))", "fetcho", "dossier", "callmeecho.dev" ],
-    favoriteLanguages: [ "Typescript", "Javascript", "Bash", "C++" ],
+    favoriteLanguages: [ "C#", "Typescript", "Javascript", "C++" ],
 
     // GPG
     // Please encrypt emails to me if they should be private!
