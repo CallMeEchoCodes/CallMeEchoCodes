@@ -12,22 +12,22 @@
     <h1 style="border-bottom: none;">Hi, I'm Echo!</h1>
 </div>
 
-```typescript
-let Echo = {
-    // Basic Info
-    pronouns: "They/Them",
-    gender: "Nonbinary",
-    location: "Australia",
-    timezone: "AEST (UTC+10)",
+```csharp
+public class Echo : Human {
+    // Basic info
+    public string Pronouns = "They/Them";
+    public string Gender = "Nonbinary";
+    public string Location = "Australia";
+    public string Timezone = "AEST (UTC+10)";
 
-    // Coding
-    projects: [ "Decluttered (Coming soon (maybe))", "fetcho", "dossier", "callmeecho.dev" ],
-    favoriteLanguages: [ "C#", "Typescript", "Javascript", "C++" ],
+    // Programming
+    public List<string> Projects = new() { "fetcho", "dossier", "callmeecho.dev" };
+    public List<string> FavoriteLanguages = new() { "C#", "Typescript", "Javascript", "C++" };
 
     // GPG
     // Please encrypt emails to me if they should be private!
-    gpgKeyFingerprint: "0B0F7A231A84F7EE9B8128CABEBCAB631F88D239",
-    gpgKeyFile: "https://github.com/CallmeEchoCodes.gpg"
+    public static string gpgKeyFingerprint = "0B0F7A231A84F7EE9B8128CABEBCAB631F88D239";
+    public static string gpgKeyFile = "https://github.com/CallmeEchoCodes.gpg";
 }
 ```
 
