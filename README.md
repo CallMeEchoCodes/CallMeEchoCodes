@@ -21,8 +21,8 @@ public class Echo : Human {
     public string Timezone = "AEST (UTC+10)";
 
     // Programming
-    public List<string> Projects = new() { "fetcho", "dossier", "callmeecho.dev" };
-    public List<string> FavoriteLanguages = new() { "C#", "Typescript", "Javascript", "C++" };
+    public List<string> Projects = new() { "Hollow", "callmeecho.dev" };
+    public List<string> FavoriteLanguages = new() { "C#", "Java", "TypeScript" };
 
     // GPG
     // Please encrypt emails to me if they should be private!
@@ -50,15 +50,15 @@ public class Echo : Human {
 <div align="center">
     <h2 style="border-bottom: none;">Languages i know</h2>
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=cs,typescript,javascript,nodejs,html,css,cpp,bash,java,lua,nim,powershell&theme=dark&perline=6" />
+        <img src="https://skillicons.dev/icons?i=java,cs,typescript,javascript,cpp,bash&theme=dark&perline=6" />
     </a>
     <h2 style="border-bottom: none;">Frameworks i work with</h2>
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=react,vue,astro,tailwind,bots&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=react,astro,tailwind,discordjs,dotnet&theme=dark" />
     </a>
     <h2 style="border-bottom: none;">Tools i use</h2>
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=discord,git,github,gradle,linux,stackoverflow,vscode&theme=dark&perline=7" />
+        <img src="https://skillicons.dev/icons?i=linux,arch,idea,stackoverflow,vscode&theme=dark&perline=7" />
     </a>
 </div>
 
