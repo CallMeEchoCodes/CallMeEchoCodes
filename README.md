@@ -12,22 +12,22 @@
     <h1 style="border-bottom: none;">Hi, I'm Echo!</h1>
 </div>
 
-```csharp
-public class Echo : Human {
+```java
+public class Echo extends Human {
     // Basic info
-    public string Pronouns = "They/Them";
-    public string Gender = "Nonbinary";
-    public string Location = "Australia";
-    public string Timezone = "AEST (UTC+10)";
+    public String pronouns = "They/Them";
+    public String gender = "Nonbinary";
+    public String location = "Australia";
+    public String timezone = "AEST (UTC+10)";
 
     // Programming
-    public List<string> Projects = new() { "Hollow", "callmeecho.dev" };
-    public List<string> FavoriteLanguages = new() { "C#", "Java", "TypeScript" };
+    public final  List<String> projects = List.of("Hollow", "Specter", "callmeecho.dev");
+    public final List<String> favoriteLanguages =  List.of("C#", "Java", "TypeScript");
 
     // GPG
     // Please encrypt emails to me if they should be private!
-    public static string gpgKeyFingerprint = "0B0F7A231A84F7EE9B8128CABEBCAB631F88D239";
-    public static string gpgKeyFile = "https://github.com/CallmeEchoCodes.gpg";
+    public static final String gpgKeyFingerprint = "0B0F7A231A84F7EE9B8128CABEBCAB631F88D239";
+    public static final String gpgKeyFile = "https://github.com/CallmeEchoCodes.gpg";
 }
 ```
 
