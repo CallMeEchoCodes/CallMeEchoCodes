@@ -35,7 +35,7 @@ public class Echo extends Human {
     <a style="text-decoration: none;" href="https://discordapp.com/users/379035005231300608">
         <img style="border-radius:10px" src="https://img.shields.io/static/v1?label=Discord&message=@callmeecho&logo=discord&style=for-the-badge&logoColor=white&labelColor=181825&color=b4befe" />
     </a>
-    <a style="text-decoration: none;" href="https://twitter.com/@ImCallMeEcho](https://bsky.app/profile/callmeecho.dev)">
+    <a style="text-decoration: none;" href="https://bsky.app/profile/callmeecho.dev">
         <img style="border-radius:10px" src="https://img.shields.io/static/v1?label=Bluesky&message=@callmeecho.dev&logo=bluesky&style=for-the-badge&logoColor=white&labelColor=181825&color=89b4fa">
     </a>
     <a style="text-decoration: none;" href="https://youtube.com/@ImCallMeEcho">
