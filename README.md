@@ -22,7 +22,7 @@ public class Echo extends Human {
     public String timezone = "AEST (UTC+10)";
 
     // Programming
-    public final  List<String> projects = List.of("Hollow", "Specter", "callmeecho.dev");
+    public final List<String> projects = List.of("Hollow", "Specter", "callmeecho.dev");
     public final List<String> favoriteLanguages =  List.of("C#", "Java", "TypeScript");
 
     // GPG
@@ -49,15 +49,15 @@ public class Echo extends Human {
 <!-- god i love skillicons -->
 
 <div align="center">
-    <h2 style="border-bottom: none;">Languages i know</h2>
+    <h2 style="border-bottom: none;">Languages I know</h2>
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=java,cs,typescript,javascript,cpp,bash&theme=dark&perline=6" />
     </a>
-    <h2 style="border-bottom: none;">Frameworks i work with</h2>
+    <h2 style="border-bottom: none;">Frameworks I work with</h2>
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=react,astro,tailwind,discordjs,dotnet&theme=dark" />
     </a>
-    <h2 style="border-bottom: none;">Tools i use</h2>
+    <h2 style="border-bottom: none;">Tools I use</h2>
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=linux,arch,idea,stackoverflow,vscode&theme=dark&perline=7" />
     </a>
