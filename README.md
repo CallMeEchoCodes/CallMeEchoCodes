@@ -23,7 +23,7 @@ public class Echo extends Human {
 
     // Programming
     public final List<String> projects = List.of("Hollow", "Specter", "callmeecho.dev");
-    public final List<String> favoriteLanguages =  List.of("C#", "Java", "TypeScript");
+    public final List<String> favoriteLanguages =  List.of("Kotlin", "C#", "Java");
 
     // GPG
     // Please encrypt emails to me if they should be private!
