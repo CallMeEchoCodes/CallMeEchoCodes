@@ -51,7 +51,7 @@ public class Echo extends Human {
 <div align="center">
     <h2 style="border-bottom: none;">Languages I know</h2>
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=java,cs,typescript,javascript,cpp,bash&theme=dark&perline=6" />
+        <img src="https://skillicons.dev/icons?i=kotlin,java,cs,typescript&theme=dark&perline=6" />
     </a>
     <h2 style="border-bottom: none;">Frameworks I work with</h2>
     <a href="https://skillicons.dev">
